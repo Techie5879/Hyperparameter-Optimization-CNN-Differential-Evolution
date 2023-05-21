@@ -1,2 +1,2 @@
-# Hyperparameter-Optimization-CNN-Differential-Evolution
-Hyperparameter Optimization of CNN Using Differential Evolution Algorithm
+# Hyperparameter Optimization of CNN Using Differential Evolution Algorithm for Speech Command Recognition
+
